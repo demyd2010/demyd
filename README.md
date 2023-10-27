@@ -29,7 +29,6 @@
             <td>$899</td>
         </tr>
     </table>
-
     <h2 colspan="3">Conclusions:</h2>
     <ul>
         <li>SleekPhone X is the most affordable option among the three smartphones with a price of $699.</li>
